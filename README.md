@@ -4,7 +4,7 @@ A character archive for Nemezis Noahovna Mikhalinsky.
 
 ## Contents
 
-- [Character Profile](https://github.com/yuxxinnnn/Nemezis-Archive/blob/main/Character%20Profile)
+- Character Profile
 - Family
 - Timeline
 - Lore
