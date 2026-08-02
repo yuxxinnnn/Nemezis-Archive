@@ -9,6 +9,7 @@ A character archive for Nemezis Noahovna Mikhalinsky.
 - Timeline
 - Lore
 - Artworks
+- Unused Ideas
 
 ---
 
