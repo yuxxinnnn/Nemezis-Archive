@@ -8,9 +8,9 @@ A brief overview of the Mikhalinsky family.
 
 Ivan Christophovich Mikhalinsky
 
- └── Noah Ivanovich Mikhalinsky
+ └── Dmitri Ivanovich Mikhalinsky
  
-  └── Nemezis Noahovna Mikhalinsky
+  └── Nemezis Dmitrievna Mikhalinskaya
 
 ## Family Members
 
@@ -22,7 +22,7 @@ Ivan Christophovich Mikhalinsky
 - Background:
 - Notes:
 
-### Noah Ivanovich Mikhalinsky
+### Dmitri Ivanovich Mikhalinsky
 
 - Relationship:
 - Occupation:
