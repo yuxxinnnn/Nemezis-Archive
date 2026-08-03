@@ -1,10 +1,10 @@
-#Mikhalinsky Family
+# Mikhalinsky Family
 
-##Family Overview
+## Family Overview
 
 A brief overview of the Mikhalinsky family.
 
-##Family Tree
+## Family Tree
 
 Ivan Christophovich Mikhalinsky
 │
@@ -12,17 +12,9 @@ Ivan Christophovich Mikhalinsky
     │
     └── Nemezis Noahovna Mikhalinsky
 
-##Family Members
+## Family Members
 
-###Ivan Christophovich Mikhalinsky
-
-- Relationship:
-- Occupation:
-- Personality:
-- Background:
-- Notes:
-
-###Noah Ivanovich Mikhalinsky
+### Ivan Christophovich Mikhalinsky
 
 - Relationship:
 - Occupation:
@@ -30,25 +22,33 @@ Ivan Christophovich Mikhalinsky
 - Background:
 - Notes:
 
-##Family History
+### Noah Ivanovich Mikhalinsky
+
+- Relationship:
+- Occupation:
+- Personality:
+- Background:
+- Notes:
+
+## Family History
 
 - 
 - 
 - 
 
-##Family Traditions
+## Family Traditions
 
 - 
 - 
 - 
 
-##Relationships
+## Relationships
 
 - Ivan → Noah:
 - Noah → Nemezis:
 - Ivan → Nemezis:
 
-##Trivia
+## Trivia
 
 - 
 - 
