@@ -24,7 +24,7 @@
 
 ## Family
 - Father: Dmitri Ivanovich Mikhalinsky
-- Mother: Unkown
+- Mother: 
 - Grandfather: Ivan Christopherovich Mikhalinsky
 - Brother: Nez Dmitriovich Mikhalinsky
 - Other: Nemezis older than Nez
