@@ -7,7 +7,9 @@ A brief overview of the Mikhalinsky family.
 ## Family Tree
 
 Ivan Christophovich Mikhalinsky
+
 └── Noah Ivanovich Mikhalinsky
+
     └── Nemezis Noahovna Mikhalinsky
 
 ## Family Members
