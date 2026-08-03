@@ -1,6 +1,6 @@
 # Nemezis Archive
 
-A character archive for Nemezis Noahovna Mikhalinsky.
+A character archive for Nemezis Dmitrievna Mikhalinskaya
 
 ## Contents
 
