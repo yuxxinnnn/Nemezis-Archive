@@ -26,7 +26,7 @@ Ivan Christophovich Mikhalinsky
 
 - Relationship: father
 - Occupation: soldier
-- Personality:
+- Personality: cold, bossy, responsibility and royalty 
 - Background:
 - Notes:
 
@@ -34,7 +34,7 @@ Ivan Christophovich Mikhalinsky
 
 - Relationship: mother
 - Occupation: wifey
-- Personality:
+- Personality: calm, royalty, responsibility and hardworking 
 - Background:
 - Notes:
 
