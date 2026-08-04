@@ -42,8 +42,8 @@ Ivan Christophovich Mikhalinsky
 - Relationship: brother
 - Occupation: student
 - Personality: extrovert, lazy, talkative and selfish
-- Background:
-- Notes: Nez isn't my oc, he's my brother's oc.
+- Background: *I don't think this information is available yet, since he isn't my character.*
+- Notes: Nez is my brother's oc.
 
 ## Family History
 
