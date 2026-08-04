@@ -10,7 +10,7 @@ Ivan Christophovich Mikhalinsky
 
  └── Dmitri Ivanovich Mikhalinsky & Anastasiya Sergeevna Volkova
  
-  └── Nemezis Dmitrievna Mikhalinskaya
+  └── Nemezis Dmitrievna Mikhalinskaya & Nez Dmitrievich Mikhalinsky
 
 ## Family Members
 
@@ -38,6 +38,13 @@ Ivan Christophovich Mikhalinsky
 - Background:
 - Notes:
 
+### Nez Dmitrievich Mikhalinsky
+- Relationship:
+- Occupation:
+- Personality:
+- Background:
+- Notes:
+
 ## Family History
 
 - 
@@ -56,7 +63,11 @@ Ivan Christophovich Mikhalinsky
 - Dmitri →Anastasiya:
 - Anastasiya → Nemezis: 
 - Dmitri → Nemezis: 
-- Ivan → Nemezis: 
+- Ivan → Nemezis:
+- Nemezis → Nez: 
+- Anastasiya → Nez:
+- Dmitri → Nez
+- Ivan → Nez
 
 ## Trivia
 
