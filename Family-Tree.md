@@ -19,24 +19,24 @@ Ivan Christophovich Mikhalinsky
 - Relationship: grandfather
 - Occupation: military commander
 - Personality: cold, dangerously and very bossy 
-- Background:
-- Notes:
+- Background: Ivan is a military commander. he annd Nemezis like hunting season.
+- Notes: he always spoils his grandchildren.
 
 ### Dmitri Ivanovich Mikhalinsky
 
 - Relationship: father
 - Occupation: soldier
 - Personality: cold, bossy, responsibility and royalty 
-- Background:
-- Notes:
+- Background: Dmitri lived with his father and stepmother, because his mother is a serial killer. Ivan loves Dmitri's mother. But when he knows who she is, he has to protect his son first.
+- Notes: he likes to drink vodka, but Nemezis always took all of it to the trash. 
 
 ### Anastasiya Sergeevna Volkova
 
 - Relationship: mother
 - Occupation: wifey
 - Personality: calm, royalty, responsibility and hardworking 
-- Background:
-- Notes:
+- Background: Anastasiya lived in Novosibirsk Oblast. 
+- Notes: she always speaks Proto-Slavic.
 
 ### Nez Dmitrievich Mikhalinsky
 - Relationship: brother
