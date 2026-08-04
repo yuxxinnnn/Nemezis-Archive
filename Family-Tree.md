@@ -52,10 +52,11 @@ Ivan Christophovich Mikhalinsky
 
 ## Relationships
 
-- Ivan → Noah:
-- Noah → Nemezis:
-- Ivan → Nemezis:
-- Anastasiya → Nemezis:
+- Ivan → Dmitri: 
+- Dmitri →Anastasiya:
+- Anastasiya → Nemezis: 
+- Dmitri → Nemezis: 
+- Ivan → Nemezis: 
 
 ## Trivia
 
