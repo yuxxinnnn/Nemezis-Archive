@@ -47,7 +47,7 @@ Ivan Christophovich Mikhalinsky
 
 ## Family History
 
-- 
+- The Mikhalinsky family was known for having many members who served in the military.
 - 
 - 
 
