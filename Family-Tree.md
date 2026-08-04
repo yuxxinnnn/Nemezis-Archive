@@ -16,7 +16,7 @@ Ivan Christophovich Mikhalinsky
 
 ### Ivan Christophovich Mikhalinsky
 
-- Relationship:
+- Relationship: grandfather
 - Occupation:
 - Personality:
 - Background:
@@ -24,7 +24,7 @@ Ivan Christophovich Mikhalinsky
 
 ### Dmitri Ivanovich Mikhalinsky
 
-- Relationship:
+- Relationship: father
 - Occupation:
 - Personality:
 - Background:
@@ -32,14 +32,14 @@ Ivan Christophovich Mikhalinsky
 
 ### Anastasiya Sergeevna Volkova
 
-- Relationship:
+- Relationship: mother
 - Occupation:
 - Personality:
 - Background:
 - Notes:
 
 ### Nez Dmitrievich Mikhalinsky
-- Relationship:
+- Relationship: brother
 - Occupation:
 - Personality:
 - Background:
@@ -59,15 +59,15 @@ Ivan Christophovich Mikhalinsky
 
 ## Relationships
 
-- Ivan → Dmitri: 
-- Dmitri →Anastasiya:
-- Anastasiya → Nemezis: 
-- Dmitri → Nemezis: 
-- Ivan → Nemezis:
-- Nemezis → Nez: 
-- Anastasiya → Nez:
-- Dmitri → Nez
-- Ivan → Nez
+- Ivan → Dmitri: father
+- Dmitri →Anastasiya: lover/marriage
+- Anastasiya → Nemezis: mother and daughter
+- Dmitri → Nemezis: father and daughter
+- Ivan → Nemezis: grandfather and granddaughter
+- Nemezis → Nez: older sister and younger brother
+- Anastasiya → Nez: mother and son
+- Dmitri → Nez: father and son
+- Ivan → Nez: grandfather and grandson
 
 ## Trivia
 
