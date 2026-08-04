@@ -55,6 +55,7 @@ Ivan Christophovich Mikhalinsky
 - Ivan → Noah:
 - Noah → Nemezis:
 - Ivan → Nemezis:
+- Anastasiya → Nemezis:
 
 ## Trivia
 
