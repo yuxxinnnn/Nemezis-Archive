@@ -18,7 +18,7 @@ Ivan Christophovich Mikhalinsky
 
 - Relationship: grandfather
 - Occupation: military commander
-- Personality:
+- Personality: cold, dangerously and very bossy 
 - Background:
 - Notes:
 
