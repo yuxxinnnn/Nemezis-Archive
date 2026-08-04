@@ -48,12 +48,12 @@ Ivan Christophovich Mikhalinsky
 ## Family History
 
 - The Mikhalinsky family was known for having many members who served in the military.
-- 
+- It's an old family, but there is information and photographs dating back almost to the very beginning of the lineage.
 - 
 
 ## Family Traditions
 
-- 
+- They often like to do things to the extreme, and that liking is often a bad thing.
 - 
 - 
 
