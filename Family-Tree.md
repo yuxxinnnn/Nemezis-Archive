@@ -17,7 +17,7 @@ Ivan Christophovich Mikhalinsky
 ### Ivan Christophovich Mikhalinsky
 
 - Relationship: grandfather
-- Occupation:
+- Occupation: military commander
 - Personality:
 - Background:
 - Notes:
@@ -25,7 +25,7 @@ Ivan Christophovich Mikhalinsky
 ### Dmitri Ivanovich Mikhalinsky
 
 - Relationship: father
-- Occupation:
+- Occupation: soldier
 - Personality:
 - Background:
 - Notes:
@@ -33,17 +33,17 @@ Ivan Christophovich Mikhalinsky
 ### Anastasiya Sergeevna Volkova
 
 - Relationship: mother
-- Occupation:
+- Occupation: wifey
 - Personality:
 - Background:
 - Notes:
 
 ### Nez Dmitrievich Mikhalinsky
 - Relationship: brother
-- Occupation:
-- Personality:
+- Occupation: student
+- Personality: extrovert, lazy, talkative and selfish
 - Background:
-- Notes:
+- Notes: Nez isn't my oc, he's my brother's oc.
 
 ## Family History
 
