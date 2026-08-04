@@ -8,7 +8,7 @@ A brief overview of the Mikhalinsky family.
 
 Ivan Christophovich Mikhalinsky
 
- └── Dmitri Ivanovich Mikhalinsky & Anastasiya Sergeevna
+ └── Dmitri Ivanovich Mikhalinsky & Anastasiya Sergeevna Volkova
  
   └── Nemezis Dmitrievna Mikhalinskaya
 
@@ -30,7 +30,7 @@ Ivan Christophovich Mikhalinsky
 - Background:
 - Notes:
 
-### Anastasiya Sergeevna 
+### Anastasiya Sergeevna Volkova
 
 - Relationship:
 - Occupation:
