@@ -1,14 +1,14 @@
-Lore
+# Lore
 
-World Overview
+## World Overview
 
 A brief overview of the world and its setting.
 
-History
+## History
 
 Important historical events and developments.
 
-Countries & Regions
+## Countries & Regions
 
 [Country / Region]
 
@@ -17,7 +17,7 @@ Countries & Regions
 - Culture:
 - Important facts:
 
-Organizations
+## Organizations
 
 [Organization]
 
@@ -26,39 +26,39 @@ Organizations
 - Members:
 - History:
 
-Military
+## Military
 
 - Structure:
 - Ranks:
 - Training:
 - Important organizations:
 
-Culture & Society
+## Culture & Society
 
 - Customs:
 - Social structure:
 - Religion / Beliefs:
 - Festivals:
 
-Technology
+## Technology
 
 - General technology level:
 - Important technologies:
 - Weapons:
 
-Languages
+## Languages
 
 - Main languages:
 - Writing systems:
 - Other notes:
 
-Mythology & Legends
+## Mythology & Legends
 
 - 
 - 
 - 
 
-Miscellaneous
+## Miscellaneous
 
 - 
 - 
