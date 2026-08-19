@@ -10,16 +10,12 @@ Important historical events and developments.
 
 ## Countries & Regions
 
-[Country / Region]
-
 - Location:
 - Government:
 - Culture:
 - Important facts:
 
 ## Organizations
-
-[Organization]
 
 - Purpose:
 - Structure:
