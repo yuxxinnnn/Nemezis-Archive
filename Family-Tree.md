@@ -54,7 +54,7 @@ Ivan Christophovich Mikhalinsky
 ## Family Traditions
 
 - They often like to do things to the extreme, and that liking is often a bad thing.
-- 
+- They would teach their children to speak Proto-Slavic from a young age.
 - 
 
 ## Relationships
@@ -71,6 +71,6 @@ Ivan Christophovich Mikhalinsky
 
 ## Trivia
 
-- 
+- Women in the family are generally proficient in using all types of weapons, while men specialize in one particular type.
 - 
 -
